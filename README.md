@@ -62,6 +62,7 @@
 8. Вывести результат проверки закона
 
 ### Тестирование
+<img width="637" height="181" alt="image" src="https://github.com/user-attachments/assets/bba72ef6-15b8-4282-acf9-4e4d0086d283" />
 
 
 ---
